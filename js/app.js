@@ -1,5 +1,5 @@
-const repoOwner = 'your-github-username';
-const repoName = 'your-repo-name';
+const repoOwner = 'ikecha';
+const repoName = '0930';
 const issueNumber = 1; // コメントを管理するためのIssue番号
 const token = 'your-personal-access-token';
 
