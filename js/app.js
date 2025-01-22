@@ -50,5 +50,5 @@ async function postComment(content) {
 // 初期ロード
 loadComments();
 
-// 1秒ごとにコメントをリロードする
-setInterval(loadComments, 1000);
+// 0.01秒ごとにコメントをリロードする
+setInterval(loadComments, 10);
